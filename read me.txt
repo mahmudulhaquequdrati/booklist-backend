@@ -1,0 +1,11 @@
+01) Download the zip file extract.
+02) Make sure the node is install in your local machine (run in the command promp as node --version)
+03) if existing node version, go to the project folder following these commands.
+
+npm install
+node server.js
+
+04) go to the browser and search localhost:3000
+05) if says {"message":"server is running on 3000"} the server is running
+07) all the endpoints are mention in the postman collection according to your requirment
+08) if there any issue,please drop a message
